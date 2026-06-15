@@ -1,5 +1,5 @@
 
-Hi, I’m @Beenish06!
+Hi, I’m @Beenish Zia!
 
 I am a Software QA Engineer with experience in software quality assurance, testing methodologies, automation, and continuous improvement of software development processes.
 
